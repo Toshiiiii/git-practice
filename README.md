@@ -12,3 +12,5 @@ conflictブランチによるConflict merge練習の為、編集
 リモートリポからのpull時のconflict対処練習の為、conflict-remoteから更新
 
 fork元へのPR練習の為、new-featureから編集
+
+rebase練習の為、rebase-practiceから編集
