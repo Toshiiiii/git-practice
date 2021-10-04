@@ -16,3 +16,5 @@ fork元へのPR練習の為、new-featureから編集
 rebase練習の為、rebase-practiceから編集
 
 rebaseでのconflict対処練習の為、rebase-practiceから編集
+
+pull時のrebase練習用に編集
